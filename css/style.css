@@ -90,9 +90,13 @@ label {
 
 
 /*equipe*/
+.card h5 {
+    text-align: center;
+}
+
 .card p {
     color: black;
-    text-align: start;
+    text-align: center;
 }
 
 .team h3 {
